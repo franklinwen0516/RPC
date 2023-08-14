@@ -4,7 +4,7 @@
 // - protoc             v4.23.4
 // source: login.proto
 
-package rpc
+package login_service
 
 import (
 	context "context"
