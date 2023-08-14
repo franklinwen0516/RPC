@@ -1,4 +1,4 @@
-module login_service
+module github.com/franklinwen0516/RPC/login_service
 
 go 1.20
 
