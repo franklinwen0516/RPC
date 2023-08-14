@@ -1,4 +1,4 @@
-package rpc
+package login_service
 
 import (
 	reflect "reflect"
